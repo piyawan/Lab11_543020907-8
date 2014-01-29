@@ -1,4 +1,5 @@
 <?php 
 	phpinfo(); 
-	eho '<p>Hello World</p>';
+	echo '<p>Hello World</p>';
+	echo '<p>what a wonderful day</p>';
 ?>
